@@ -83,7 +83,7 @@ Smart Energy Consumption & Optimization System using ESP32, IoT Sensors and Clou
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshbaviskar13&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshbaviskar13&theme=tokyonight"/>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=shaileshbaviskar13&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=shaileshbaviskar13&theme=tokyonight)"/>
 
 </p>
 
