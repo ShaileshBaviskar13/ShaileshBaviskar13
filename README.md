@@ -11,7 +11,7 @@
 - 🔭 Building MERN Stack Projects
 - ⚡ Solving DSA problems on LeetCode & CodeChef
 - 💬 Ask me about **React, Node.js, MongoDB & DSA**
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **shaileshvb1307@gmail.com**
 
 <br clear="right"/>
 
